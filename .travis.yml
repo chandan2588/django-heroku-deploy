@@ -4,8 +4,7 @@ python:
 script: nosetests
 deploy:
   provider: heroku
-  api_key:
-    secure: q+Dkch0ckJ6RpJDjYVyP80p6B6c/+PiHBDCNrMLaZLZYTTMHu6JWC+cPhV4ORsSOVB3BXQeMhP6v/kg1/EWCqLTspAHM3/oqWeGzTWi/pJz4Tl0Yan8uF2dKMaNVsMyYKkSblirA1KnvgMv9hiVOffAF9hFdKyoulkwRFmcGYYqmofF/yjvPjITXwOlnF0dIb6AlLbeb/xeLbs8EokJpkSOVJj9TgxPM/REEyZb3eWFfUgJ8w/MclmuUg3qDTsehxLV6NCywnH36OmQZMoyaGNVEtwQJhD0YTvzanyL9ZkphIwDb/41o/oE2FdKklZeFFgBckcOlffXqrAfQBBCJIZaGjLE3jkMgtu8MG5K+y8bZYp7P2nh4JnvysePkI3YJbc7+PHOVFrGYbReAILGidL1gMXGm//vlK0FfbMuK7j9WqvPicSJlV/SIUt0VFduuVUYOX5CACVb8X659n9GCzvJ2QKKDK3H16+IxSvNMqPeCVH9gB0fMSabob5p0PlA2LNS//eOug4ViS44w2DfeCKBYQd4QsyLFJJcBuwCscEKCv1fYarwVDtB4BpUsMlFpix1EdPZx+SiQIjqJgZpDdT7cd1PppkKSdZCeXdhqKKz8GsKUkUhJQs7VUIcX61RCkHrZ7w/5mkWKPcByEQ7tleRyRe3At2zchih4dylD3w8=
+  api_key: fd7a6671-9933-4f62-bbd4-9195d7aec931
   app: djangochandan 
   on:
     repo: chandan2588/django-heroku-deploy
