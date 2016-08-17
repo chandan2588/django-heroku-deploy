@@ -5,5 +5,4 @@ script: nosetests
 app: djangochandan
 deploy:
   provider: heroku
-  api_key:
-    secure: "fd7a6671-9933-4f62-bbd4-9195d7aec931"
+  api_key: "fd7a6671-9933-4f62-bbd4-9195d7aec931"
